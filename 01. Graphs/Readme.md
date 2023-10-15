@@ -1,22 +1,16 @@
 Representation 
-[!NOTE]
-1. https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/
+1. https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/ ✅
 
 
 BFS
-[!NOTE]
-1. https://leetcode.com/problems/word-ladder/
-[!NOTE]
-2. https://leetcode.com/problems/word-ladder-ii/
-[!NOTE]
-3. https://leetcode.com/problems/shortest-path-visiting-all-nodes/
-[!NOTE]
-4. https://codeforces.com/problemset/problem/1037/D
+1. https://leetcode.com/problems/word-ladder/ ✅
+2. https://leetcode.com/problems/word-ladder-ii/ ✅
+3. https://leetcode.com/problems/shortest-path-visiting-all-nodes/ ✅
+4. https://codeforces.com/problemset/problem/1037/D ✅
 
 
 DFS
-[!NOTE]
-1. https://www.hackerrank.com/challenges/journey-to-the-moon/problem
+1. https://www.hackerrank.com/challenges/journey-to-the-moon/problem ✅
 3. https://leetcode.com/problems/maximum-path-quality-of-a-graph/
 3. https://leetcode.com/problems/couples-holding-hands/
 4. https://leetcode.com/problems/reconstruct-itinerary/submissions/
